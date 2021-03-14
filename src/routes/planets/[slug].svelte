@@ -1,5 +1,4 @@
 <script context="module">
-  import { onMount } from "svelte";
   import fetch from "node-fetch";
 
   const token = "e0017ab4bdf7520a5060a938e297c5";
